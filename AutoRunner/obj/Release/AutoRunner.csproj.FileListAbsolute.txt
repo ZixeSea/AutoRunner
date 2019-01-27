@@ -1,0 +1,20 @@
+E:\PC-Data\Downloads\appie\AutoRunner\AutoRunner\bin\Release\AutoRunner.exe.config
+E:\PC-Data\Downloads\appie\AutoRunner\AutoRunner\bin\Release\AutoRunner.exe
+E:\PC-Data\Downloads\appie\AutoRunner\AutoRunner\bin\Release\AutoRunner.pdb
+E:\PC-Data\Downloads\appie\AutoRunner\AutoRunner\obj\Release\AutoRunner.main.resources
+E:\PC-Data\Downloads\appie\AutoRunner\AutoRunner\obj\Release\AutoRunner.Properties.Resources.resources
+E:\PC-Data\Downloads\appie\AutoRunner\AutoRunner\obj\Release\AutoRunner.csproj.GenerateResource.cache
+E:\PC-Data\Downloads\appie\AutoRunner\AutoRunner\obj\Release\AutoRunner.csproj.CoreCompileInputs.cache
+E:\PC-Data\Downloads\appie\AutoRunner\AutoRunner\obj\Release\AutoRunner.exe
+E:\PC-Data\Downloads\appie\AutoRunner\AutoRunner\obj\Release\AutoRunner.pdb
+G:\Van mij\C# programma's\appie\AutoRunner\AutoRunner\bin\Release\AutoRunner.exe.config
+G:\Van mij\C# programma's\appie\AutoRunner\AutoRunner\bin\Release\AutoRunner.exe
+G:\Van mij\C# programma's\appie\AutoRunner\AutoRunner\bin\Release\AutoRunner.pdb
+G:\Van mij\C# programma's\appie\AutoRunner\AutoRunner\obj\Release\AutoRunner.csprojAssemblyReference.cache
+G:\Van mij\C# programma's\appie\AutoRunner\AutoRunner\obj\Release\AutoRunner.Properties.Resources.resources
+G:\Van mij\C# programma's\appie\AutoRunner\AutoRunner\obj\Release\AutoRunner.csproj.GenerateResource.cache
+G:\Van mij\C# programma's\appie\AutoRunner\AutoRunner\obj\Release\AutoRunner.csproj.CoreCompileInputs.cache
+G:\Van mij\C# programma's\appie\AutoRunner\AutoRunner\obj\Release\AutoRunner.exe
+G:\Van mij\C# programma's\appie\AutoRunner\AutoRunner\obj\Release\AutoRunner.pdb
+G:\Van mij\C# programma's\appie\AutoRunner\AutoRunner\obj\Release\AutoRunner.linkAddForm.resources
+G:\Van mij\C# programma's\appie\AutoRunner\AutoRunner\obj\Release\AutoRunner.mainForm.resources
