@@ -1,8 +1,9 @@
 # AutoRunner, for trolling your friends.
 **This bot can be used to idle any steam game you own up to 25 game(steam limit) at a time without realy running them.**
-[<img src="https://discordapp.com/api/guilds/98834803738054656/embed.png">](https://discordapp.com/invite/bZt8WkS/)
-[<img src="https://img.shields.io/badge/Version-2.0.0-green.svg">](https://github.com/ZixeSea/AutoRunner/)
-[<img src="https://img.shields.io/badge/In%20progress-no-red.svg">](https://animeglitch.net/)
+[![Discord Badge](https://discordapp.com/api/guilds/98834803738054656/embed.png)](https://discordapp.com/invite/bZt8WkS)
+[![Version Badge](https://img.shields.io/badge/Version-2.0.0-green.svg)](https://github.com/ZixeSea/AutoRunner)
+[![In progress Badge](https://img.shields.io/badge/In%20progress-no-red.svg)](https://animeglitch.net)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4bbd73f198f644749f5f5f6a6f8b0b52)](https://www.codacy.com/app/ZixeSea/AutoRunner?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ZixeSea/AutoRunner&amp;utm_campaign=Badge_Grade)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ZixeSea/AutoRunner/blob/master/LICENSE.md) file for details
