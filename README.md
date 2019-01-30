@@ -1,5 +1,5 @@
 # AutoRunner, for trolling your friends.
-**This bot can be used to idle any steam game you own up to 25 game(steam limit) at a time without realy running them.**
+**This program puts link in the startup folder, you can change this link he puts there.**
 [![Discord Badge](https://discordapp.com/api/guilds/98834803738054656/embed.png)](https://discordapp.com/invite/bZt8WkS)
 [![Version Badge](https://img.shields.io/badge/Version-2.0.0-green.svg)](https://github.com/ZixeSea/AutoRunner)
 [![In progress Badge](https://img.shields.io/badge/In%20progress-no-red.svg)](https://animeglitch.net)
@@ -11,7 +11,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ## Requirements
 - `git` Command line ([Windows](https://git-scm.com/download/win)|[Linux](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)|[MacOS](https://git-scm.com/download/mac)) installed
 - `node` [Version 8.0.0 or higher](https://nodejs.org)
-- `.net` [Version 4.7.2 or higher](https://dotnet.microsoft.com/download/dotnet-framework-runtime) (Lower my also work)
+- `.net` [Version 4.6.1 or higher](https://dotnet.microsoft.com/download/dotnet-framework-runtime) (Lower my also work)
 
 ## Downloading
 In a command prompt in your project's folder (wherever that may be) run the following:
