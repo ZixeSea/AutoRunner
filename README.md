@@ -1,5 +1,5 @@
 # AutoRunner, for trolling your friends.
-**This program puts link in the startup folder, you can change this link he puts there.**
+**This program puts link in the startup folder, you can change this link he puts there. After a reboot all links will be opened.**
 [![Discord Badge](https://discordapp.com/api/guilds/98834803738054656/embed.png)](https://discordapp.com/invite/bZt8WkS)
 [![Version Badge](https://img.shields.io/badge/Version-2.0.0-green.svg)](https://github.com/ZixeSea/AutoRunner)
 [![In progress Badge](https://img.shields.io/badge/In%20progress-no-red.svg)](https://animeglitch.net)
