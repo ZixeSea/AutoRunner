@@ -2,7 +2,7 @@
 **This program puts link in the startup folder, you can change this link he puts there. After a reboot all links will be opened.**
 [![Discord Badge](https://discordapp.com/api/guilds/98834803738054656/embed.png)](https://discordapp.com/invite/bZt8WkS)
 [![Version Badge](https://img.shields.io/badge/Version-2.0.0-green.svg)](https://github.com/ZixeSea/AutoRunner)
-[![In progress Badge](https://img.shields.io/badge/In%20progress-no-red.svg)](https://animeglitch.net)
+[![In progress Badge](https://img.shields.io/badge/In%20progress-no-red.svg)](https://zixesea.com)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4bbd73f198f644749f5f5f6a6f8b0b52)](https://www.codacy.com/app/ZixeSea/AutoRunner?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ZixeSea/AutoRunner&amp;utm_campaign=Badge_Grade)
 
 ## License
@@ -10,7 +10,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Requirements
 - `git` Command line ([Windows](https://git-scm.com/download/win)|[Linux](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)|[MacOS](https://git-scm.com/download/mac)) installed
-- `node` [Version 8.0.0 or higher](https://nodejs.org)
 - `.net` [Version 4.6.1 or higher](https://dotnet.microsoft.com/download/dotnet-framework-runtime) (Lower my also work)
 
 ## Downloading
